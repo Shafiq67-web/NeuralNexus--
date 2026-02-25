@@ -1,0 +1,16 @@
+# Mathematical FNN From Scratch - Dependencies
+# =============================================
+
+# Core numerical computing
+numpy>=1.20.0
+
+# Visualization
+matplotlib>=3.3.0
+
+# Dataset loading and evaluation metrics
+scikit-learn>=0.24.0
+
+# Optional: For extended experiments
+# scipy>=1.6.0
+# pandas>=1.2.0
+# jupyter>=1.0.0
